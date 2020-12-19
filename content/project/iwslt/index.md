@@ -1,5 +1,5 @@
 ---
-title: Translation from disfluent Spanish to Fluent English
+title: Translation from Disfluent Spanish to Fluent English
 summary: Machine translation of disfluent text in Spanish to fluent text in English language without access
          to parallel disfluent-to-fluent spanish-to-english parallel corpus.
 tags:
@@ -13,15 +13,15 @@ external_link: ""
 #  caption: Photo by rawpixel on Unsplash
 #  focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: "https://github.com/niksarrow/cst"
 url_pdf: "https://www.aclweb.org/anthology/2020.iwslt-1.22/"
-url_slides: ""
-url_video: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
