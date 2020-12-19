@@ -19,21 +19,18 @@ bio: My research interests include NLP and Speech.
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
+- Natural Language Processing
 - Speech Translation
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Tech (Research)
+    institution: IIT Bombay
+    year: 2021
+  - course: B.E
+    institution: MSU Baroda
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
