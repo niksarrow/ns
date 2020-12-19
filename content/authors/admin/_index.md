@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nikhil Saini
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Assistant at IIT Bombay
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: IIT Bombay
+  url: https://www.cse.iitb.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include NLP and Speech.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Speech Translation
 
 # Education to show in About widget
 education:
