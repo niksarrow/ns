@@ -67,7 +67,8 @@ email: ""
 highlight_name: false
 ---
 
-Nikhil Saini is a research assistant at Indian Institute of Technology, Bombay. His research interests include Artificial Intelligence, Natural Language Processing and Speech Procesing. He is inclined towards algorithmic thinking and problem solving. He works at CFILT and CSALT lab under the guidance of Prof. Pushpak Bhattacharya and Prof. Preethi Jyothi on problems involving Speech and NLP. Alongwith, he assists in the research at Computer Center of IIT Bombay.
+Nikhil Saini is a research assistant at Indian Institute of Technology, Bombay. His research interests include Artificial Intelligence, Natural Language Processing and Speech Procesing. He is inclined towards algorithmic thinking and problem solving. He works at <a href="http://www.cfilt.iitb.ac.in/">CFILT</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT</a> lab under the guidance of
+<a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/">Prof. Preethi Jyothi</a> on problems involving Speech and NLP. Alongwith, he assists in the research at <a href="https://www.cc.iitb.ac.in/">Computer Center</a> of IIT Bombay.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NikhilCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NikhilCV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
