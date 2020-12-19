@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nikhil Saini
+title: Nikhil Saini IIT
 
 # Is this the primary user of the site?
 superuser: true
