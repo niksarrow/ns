@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nikhil Saini IIT
+title: Nikhil Saini
 
 # Is this the primary user of the site?
 superuser: true
@@ -54,7 +54,7 @@ social:
   link: https://www.linkedin.com/in/niksarrow/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -70,4 +70,4 @@ highlight_name: false
 Nikhil Saini is a research assistant at Indian Institute of Technology, Bombay. His research interests include Artificial Intelligence, Natural Language Processing and Speech Procesing. He is inclined towards algorithmic thinking and problem solving. He works at CFILT and CSALT lab under the guidance of Prof. Pushpak Bhattacharya and Prof. Preethi Jyothi on problems involving Speech and NLP. Alongwith, he assists in the research at Computer Center of IIT Bombay.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NikhilCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
