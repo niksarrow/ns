@@ -17,12 +17,12 @@ abstract: The talk convered Machine Translation. Prof. Pushpak Bhattacharyya, Aa
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-08-01T15:00:00Z"
+date: "2020-01-08T15:00:00Z"
 date_end: "2020-01-08T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-09-01T00:00:00Z"
+publishDate: "2020-01-09T00:00:00Z"
 
 authors: []
 tags: []
