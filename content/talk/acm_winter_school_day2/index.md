@@ -1,10 +1,10 @@
 ---
-title: Machine Translation
+title: Disfluency Correction in the Context of Speech To Speech Machine Translation
 
-event: Winter School on Natural Language Processing
-event_url: https://www.youtube.com/watch?v=p2DHrFt4k9Q&feature=youtu.be
+event: ACM Winter School on Natural Language Processing
+event_url: https://india.acm.org/education/nlp-winter-2020#:~:text=The%20proposed%20school%20aims%20to,and%20opportunities%20and%20future%20trends.
 
-location: Conference Call
+location: IRNLP, DAIICT (Conference Call)
 address:
   street: 
   city: 
@@ -13,16 +13,16 @@ address:
   country: 
 
 summary: IRLAB, DAIICT conducted a Winter School on Natural Language Processing. 
-abstract: The talk convered Machine Translation. Prof. Pushpak Bhattacharyya, Aakash Banerjee and I convered the different paradigms of Machine Translation. I talked about Unsupervised Neural Machine Translation describing the three pillars of it in detail and the challenges which are being faced in Indian Languages. 
+abstract: The talk covered Disfluency Correction in the context of Speech to Speech Machine Translation. Prof. Pushpak Bhattacharyya, Aakash Banerjee and I convered the different paradigms of Machine Translation. I talked on two tasks, the first being "Translation from Disfluent Spanish To Fluent English", which is an accepted work at ACL 2020 and the second being "Unsupervised and Semi-supervised Learning for Disfluency Correction" which will be published in EACL 2021. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-01-08T15:00:00Z"
-date_end: "2020-01-08T18:00:00Z"
+date: "2020-01-12T15:00:00Z"
+date_end: "2020-01-12T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-01-09T00:00:00Z"
+publishDate: "2020-01-12T00:00:00Z"
 
 authors: []
 tags: []
@@ -39,7 +39,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=p2DHrFt4k9Q&feature=youtu.be"
+url_video: "https://www.youtube.com/watch?v=sZ6dqeOi_sQ&feature=youtu.be"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
