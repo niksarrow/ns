@@ -1,9 +1,9 @@
 ---
 title: How to use Spacetime?
-subtitle: Run a job on supercomputing cluster. 
+subtitle: Operating a supercomputing cluster. 
 
 # Summary for listings and search engines
-summary:
+summary: Run a job on a supercomputing cluster. 
 
 # Link this post with a project
 projects: []
