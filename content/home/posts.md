@@ -3,8 +3,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-active: true
-
 # This file represents a page section.
 headless: true
 
@@ -21,7 +19,7 @@ content:
   count: 5
   # Filter on criteria
   filters:
-    author: "Nikhil Saini"
+    author: ""
     category: ""
     tag: ""
     exclude_featured: false
