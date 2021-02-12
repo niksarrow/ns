@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Unsplash**](https://in.pinterest.com/pin/88523948908347616/)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -48,23 +48,21 @@ categories:
 4. Line 15:- cd <path to your working directory>
 5. "aprun -n 1 -N 1 -d 16 -cc none -a xt" // Add this to the beginning of your python command and write it in place of any of the previously written jobs.
 
-Note:- Comment all other jobs, only one should be active at one time.
-
-
-Submit a job:-
+### Submit a job:-
 6. qsub job_sample.pbs
 
-Check running jobs:-
+### Check running jobs:-
 7. qstat -u <username>  // username of your account
 
-Delete a job:-
+### Delete a job:-
 8. qdel <jobid>
 
-Note:- 
-A job will run for max 120 hrs, if you want more a special request will be required over mail. 
+## Note
+1. Comment all other jobs, only one should be active at one time.
+2. A job will run for max 120 hrs, if you want more a special request will be required over mail. 
 Only 8 jobs can run per account and 2 in Queue.
 
-Done.
+### Voila!! Done.
 
 <!-- ## Overview
 
