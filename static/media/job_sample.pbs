@@ -1,1 +1,22 @@
-pbs
+## PBS Script
+#PBS -N jobname
+#PBS -q gpuq
+##PBS -q gpu_nodes
+#PBS -l select=1:ncpus=16:accelerator=True:vntype=cray_compute
+#PBS -l place=pack
+#PBS -o joblogname.log
+
+module load craype-broadwell
+module load craype-accel-nvidia60
+##module load anaconda3/5.2.0
+
+source activate your_env_name
+cd <path-to-current-directory>
+
+## If using m GPUs, set select=m, set aprun -n m -d ncpus, set place=scatter
+## For 1 GPU, set place=pack
+## Per shell one aprun command only
+
+# my_file.py: Put your file name in place of it. 
+
+aprun -n 1 -N 1 -d 16 -cc none -a xt my_file.py

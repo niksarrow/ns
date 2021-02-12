@@ -38,23 +38,23 @@ categories:
 - Tutorial
 
 ---
-## Prerequisite
+### Prerequisite
 {{< icon name="download" pack="fas" >}} Download this {{< staticref "media/job_sample.pbs" "newtab" >}}file{{< /staticref >}} and copy it to your spacetime account.
 
-## Steps
+### Steps
 1. Change error file name on line 2 <to any temporary name>
 2. Change log file name on line 7 <--do-->
 3. Line 14:- source activate <your environment name>  // conda env
 4. Line 15:- cd <path to your working directory>
 5. "aprun -n 1 -N 1 -d 16 -cc none -a xt" // Add this to the beginning of your python command and write it in place of any of the previously written jobs.
 
-### Submit a job:-
+## Submit a job:-
 6. qsub job_sample.pbs
 
-### Check running jobs:-
+## Check running jobs:-
 7. qstat -u <username>  // username of your account
 
-### Delete a job:-
+## Delete a job:-
 8. qdel <jobid>
 
 ## Note
