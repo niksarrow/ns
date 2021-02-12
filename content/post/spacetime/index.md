@@ -6,23 +6,23 @@ subtitle: Run a job on supercomputing cluster.
 summary: 
 1. Change error file name on line 2 <to any temporary name>
 2. Change log file name on line 7 <--do-->
-3. Line 14: source activate <your environment name>  // conda env
-4. Line 15: cd <path to your working directory>
+3. Line 14:- source activate <your environment name>  // conda env
+4. Line 15:- cd <path to your working directory>
 5. "aprun -n 1 -N 1 -d 16 -cc none -a xt" Add this to the beginning of your python command and write it in place of any of the previously written jobs.
 
-Note: Comment all other jobs, only one should be active at one time.
+Note:- Comment all other jobs, only one should be active at one time.
 
 
-Submit a job:
+Submit a job:-
 6. qsub job_sample.pbs
 
-Check running jobs:
+Check running jobs:-
 7. qstat -u 203050051
 
-Delete a job:
+Delete a job:-
 8. qdel <jobid>
 
-Note: 
+Note:- 
 A job will run for max 120 hrs, if you want more a special request will be required over mail. 
 Only 8 jobs can run per account and 2 in Queue.
 
