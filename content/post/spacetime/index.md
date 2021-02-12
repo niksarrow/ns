@@ -38,10 +38,10 @@ categories:
 - Tutorial
 
 ---
-### Prerequisite
+## Prerequisite
 {{< icon name="download" pack="fas" >}} Download this {{< staticref "media/job_sample.pbs" "newtab" >}}file{{< /staticref >}} and copy it to your spacetime account.
 
-### Steps
+## Steps
 1. Change error file name on line 2 <to any temporary name>
 2. Change log file name on line 7 <--do-->
 3. Line 14:- source activate <your environment name>  // conda env
