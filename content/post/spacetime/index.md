@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://in.pinterest.com/pin/88523948908347616/)'
+  caption: 'Image credit: [**Pintrest**](https://in.pinterest.com/pin/88523948908347616/)'
   focal_point: ""
   placement: 2
   preview_only: false
