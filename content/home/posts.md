@@ -21,7 +21,7 @@ content:
   count: 5
   # Filter on criteria
   filters:
-    author: ""
+    author: "Nikhil Saini"
     category: ""
     tag: ""
     exclude_featured: false
