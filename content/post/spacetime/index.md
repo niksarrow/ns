@@ -54,10 +54,10 @@ categories:
 6. qsub job_sample.pbs
 
 ## Check running jobs:-
-7. qstat -u <username>  // username of your account
+7. qstat -u < username >  // username of your account
 
 ## Delete a job:-
-8. qdel <jobid>
+8. qdel < jobid >
 
 ## Note
 1. Comment all other jobs, only one should be active at one time.
