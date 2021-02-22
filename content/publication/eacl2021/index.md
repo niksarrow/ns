@@ -15,11 +15,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-01-15T00:00:00Z"
-doi: "10.1109/PDGC50313.2020.9315849"
+date: "2021-01-25T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-15T00:00:00Z"
+publishDate: "2021-01-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,13 +28,13 @@ publishDate: "2021-01-15T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2020 Sixth International Conference on Parallel, Distributed and Grid Computing*
-publication_short: In *PDGC*
+publication: To appear in the *Proceedings of EACL (16th Conference of the European Chapter of the Association for Computational Linguistics), 2021.*
+publication_short: In *EACL*
 
-abstract: Load balancing is the process of improving the performance of the system by sharing of workload among the processors. The workload of a machine means the total processing time it requires to execute all the tasks assigned to it. Load balancing is one of the important factors to heighten the working performance of the cloud service provider. The benefits of distributing the workload include increased resource utilization ratio which further leads to enhancing the overall performance thereby achieving maximum client satisfaction. In this paper, we are demonstrating the use of the singleton model for load balancing.
+abstract: Spoken language is different from the written language in its style and structure. Disfluencies that appear in transcriptions from speech recognition systems generally hamper the performance of downstream NLP tasks. Thus, a disfluency correction system that converts disfluent to fluent text is of great value. This paper introduces a disfluency correction model that translates disfluent to fluent text by drawing inspiration from recent encoder-decoder unsupervised style-transfer models for text. We also show considerable benefits in performance when utilizing a small sample of 500 parallel disfluent-fluent sentences in a semisupervised way. Our unsupervised approach achieves a BLEU score of 79.39 on the Switchboard corpus test set, with further improvement to a BLEU score of 85.28 with semisupervision. Both are comparable to two competitive fully-supervised models.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we present an implementation to do load balancing in heterogeneous distributed systems using a singleton model by making use of simple technologies provided by Java Programming language. The ObjectOriented concepts in Java enable us to invoke any POJO containing the Business logic of an Application from the RMI Server program without editing the code. 
+summary: 
 
 tags: []
 
@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9315849'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
