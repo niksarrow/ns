@@ -1,14 +1,17 @@
 ---
-title: "Load Balancing in Heterogeneous Distributed Systems Using Singleton Model"
+title: "Disfluency Correction using Unsupervised and Semi-supervised Learning"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Jeet Rabari
-- Mamta C. Padole
-- Vaibhav Solanki
+- Drumil Trivedi
+- Shreya Khare
+- Tejas Dhamecha
+- Preethi Jyothi
+- Samarth Bharadwaj
+- Pushpak Bhattacharyya
 
 # Author notes (optional)
 # author_notes:
