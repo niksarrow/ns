@@ -12,12 +12,12 @@ address:
   postcode: 
   country: 
 
-summary: The session helped developers comprehend the workflow associated with development of Speech to Speech Machine Translation models. 
-abstract: The talk convered Speech To Speech Machine Translation. Prof. Pushpak Bhattacharyya and Prof. Preethi Jyothi pioneered the session with a talk on MT and (ASR + TTS) respectively. Jyotsana Khatri, Vineet Bhatt and I demonstrated Machine Translation, Text To Speech and Automatic Speech Recognition systems by showcasing a code walkthrough on Google Colab notebooks. The three components led to the formation of a complete SSMT pipeline for English to Hindi and English to Marathi language directions.
+summary: The session helped developers comprehend the workflow associated with the development of Speech to Speech Machine Translation models. 
+abstract: The talk covered Speech To Speech Machine Translation. Prof. Pushpak Bhattacharyya and Prof. Preethi Jyothi (from IIT Bombay) pioneered the session with a talk on MT and (ASR + TTS) respectively. Jyotsana Khatri, Vineet Bhatt and Nikhil Saini demonstrated Machine Translation, Text To Speech and Automatic Speech Recognition systems with the help of a code walkthrough on Google Colab notebooks. The three components led to the formation of a complete SSMT pipeline for English to Hindi and English to Marathi language translations. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-04-06T15:00:00Z"
+date: "2021-04-06T14:00:00Z"
 date_end: "2021-04-06T18:00:00Z"
 all_day: false
 
