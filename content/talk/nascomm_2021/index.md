@@ -1,8 +1,8 @@
 ---
 title: Developing High Quality Speech To Speech Machine Translation (SSMT)
 
-event: Winter School on Natural Language Processing
-event_url: https://india.acm.org/education/nlp-winter-2020#:~:text=The%20proposed%20school%20aims%20to,and%20opportunities%20and%20future%20trends.
+event: NASSCOM - The NLP Week
+event_url: https://nasscom.in/nlp-week/
 
 location: IRNLP, DAIICT (Conference Call)
 address:
