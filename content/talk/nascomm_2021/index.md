@@ -30,13 +30,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**NASSCOM**](https://nascomm/nlp-week/)'
-  focal_point: Right
-
 links:
 
-url_code: "https://github.com/niksarrow/asr"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
