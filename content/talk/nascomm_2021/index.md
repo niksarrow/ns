@@ -17,12 +17,12 @@ abstract: The talk convered Speech To Speech Machine Translation. Prof. Pushpak 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-01-08T15:00:00Z"
-date_end: "2021-01-08T18:00:00Z"
+date: "2021-04-06T15:00:00Z"
+date_end: "2021-04-06T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-01-09T00:00:00Z"
+publishDate: "2021-04-06T21:00:00Z"
 
 authors: []
 tags: []
@@ -30,12 +30,16 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
+image:
+  caption: 'Image credit: [**NASSCOM**](https://nascomm/nlp-week/)'
+  focal_point: Right
+
 links:
 
-url_code: ""
+url_code: "https://github.com/niksarrow/asr"
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=p2DHrFt4k9Q&feature=youtu.be"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
