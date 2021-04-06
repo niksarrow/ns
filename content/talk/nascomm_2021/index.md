@@ -4,7 +4,7 @@ title: Developing High Quality Speech To Speech Machine Translation (SSMT)
 event: NASSCOM - The NLP Week
 event_url: https://nasscom.in/nlp-week/
 
-location: IRNLP, DAIICT (Conference Call)
+location: (Conference Call)
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: IRLAB, DAIICT conducted a Winter School on Natural Language Processing. 
+summary: The session helped developers comprehend the workflow associated with development of Speech to Speech Machine Translation models. 
 abstract: The talk convered Machine Translation. Prof. Pushpak Bhattacharyya, Aakash Banerjee and I convered the different paradigms of Machine Translation. I talked about Unsupervised Neural Machine Translation describing the three pillars of it in detail and the challenges which are being faced in Indian Languages. 
 
 # Talk start and end times.
