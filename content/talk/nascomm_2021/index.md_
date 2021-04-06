@@ -4,7 +4,7 @@ title: Developing High Quality Speech To Speech Machine Translation (SSMT)
 event: NASSCOM - The NLP Week
 event_url: https://nasscom.in/nlp-week/
 
-location: Conference Call
+location: (Conference Call)
 address:
   street: 
   city: 
@@ -13,7 +13,7 @@ address:
   country: 
 
 summary: The session helped developers comprehend the workflow associated with development of Speech to Speech Machine Translation models. 
-abstract: The talk convered Speech To Speech Machine Translation. Prof. Pushpak Bhattacharyya and Prof. Preethi Jyothi pioneered the session with a talk on MT and (ASR + TTS) respectively. Jyotsana Khatri, Vineet Bhatt and I demonstrated Machine Translation, Text To Speech and Automatic Speech Recognition systems by showcasing a code walkthrough on Google Colab notebooks. The three components led to the formation of a complete SSMT pipeline for English to Hindi and English to Marathi language directions.  
+abstract: The talk convered Speech To Speech Machine Translation. Prof. Pushpak Bhattacharyya and Prof. Preethi Jyothi pioneered the session with a talk on MT and (ASR + TTS) respectively. Jyotsana Khatri, Vineet Bhatt and I demonstrated Machine Translation, Text To Speech and Automatic Speech Recognition systems by showcasing a code walkthrough on Google Colab notebooks. The three components led to the formation of a complete SSMT pipeline for English to Hindi and English to Marathi language directions.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -29,10 +29,6 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
-
-image:
-  caption: 'Image credit: [**NASCOMM**](https://nasscom.in/nlp-week/)'
-  focal_point: Right
 
 links:
 
