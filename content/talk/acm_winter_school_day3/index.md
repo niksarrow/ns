@@ -1,10 +1,10 @@
 ---
-title: Machine Translation
+title: Developing High Quality Speech To Speech Machine Translation (SSMT)
 
-event: Winter School on Natural Language Processing
-event_url: https://india.acm.org/education/nlp-winter-2020#:~:text=The%20proposed%20school%20aims%20to,and%20opportunities%20and%20future%20trends.
+event: NASSCOM - The NLP Week
+event_url: https://nasscom.in/nlp-week/
 
-location: IRNLP, DAIICT (Conference Call)
+location: Conference Call
 address:
   street: 
   city: 
@@ -12,17 +12,17 @@ address:
   postcode: 
   country: 
 
-summary: IRLAB, DAIICT conducted a Winter School on Natural Language Processing. 
-abstract: The talk convered Machine Translation. Prof. Pushpak Bhattacharyya, Aakash Banerjee and I convered the different paradigms of Machine Translation. I talked about Unsupervised Neural Machine Translation describing the three pillars of it in detail and the challenges which are being faced in Indian Languages. 
+summary: The session helped developers comprehend the workflow associated with development of Speech to Speech Machine Translation models. 
+abstract: The talk convered Speech To Speech Machine Translation. Prof. Pushpak Bhattacharyya and Prof. Preethi Jyothi pioneered the session with a talk on MT and (ASR + TTS) respectively. Jyotsana Khatri, Vineet Bhatt and I demonstrated Machine Translation, Text To Speech and Automatic Speech Recognition systems by showcasing a code walkthrough on Google Colab notebooks. The three components led to the formation of a complete SSMT pipeline for English to Hindi and English to Marathi language directions.  
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-01-08T15:00:00Z"
-date_end: "2021-01-08T18:00:00Z"
+date: "2021-04-06T14:00:00Z"
+date_end: "2021-04-06T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-01-09T00:00:00Z"
+publishDate: "2021-04-06T22:00:00Z"
 
 authors: []
 tags: []
@@ -30,12 +30,16 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
+image:
+  caption: 'Image credit: [**NASCOMM**](https://nasscom.in/nlp-week/)'
+  focal_point: Right
+
 links:
 
-url_code: ""
+url_code: "https://github.com/niksarrow/asr"
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=p2DHrFt4k9Q&feature=youtu.be"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
