@@ -31,15 +31,15 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**NASSCOM**](https://nascomm/nlp-week/)'
+  caption: 'Image credit: [**NASSCOM**](https://nascomm.in/nlp-week/)'
   focal_point: Righ
 
 links:
 
-url_code: "https://github.com/niksarrow/asr"
+url_code: "https://github.com/niksarrow/nasscom_nlp_week"
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=I5T3rkkCLkM"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
