@@ -31,7 +31,7 @@ publishDate: "2021-01-25T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, 2021
+publication: Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics; Main Volume, 2021
 publication_short: In *EACL*
 
 abstract: Spoken language is different from the written language in its style and structure. Disfluencies that appear in transcriptions from speech recognition systems generally hamper the performance of downstream NLP tasks. Thus, a disfluency correction system that converts disfluent to fluent text is of great value. This paper introduces a disfluency correction model that translates disfluent to fluent text by drawing inspiration from recent encoder-decoder unsupervised style-transfer models for text. We also show considerable benefits in performance when utilizing a small sample of 500 parallel disfluent-fluent sentences in a semisupervised way. Our unsupervised approach achieves a BLEU score of 79.39 on the Switchboard corpus test set, with further improvement to a BLEU score of 85.28 with semisupervision. Both are comparable to two competitive fully-supervised models.
