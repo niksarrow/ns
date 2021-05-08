@@ -42,7 +42,7 @@ summary:
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -63,7 +63,7 @@ url_video: 'https://www.virtual2021.eacl.org/paper_main.1308.html'
 image:
   caption: ''
   focal_point: ""
-  preview_only: true
+  preview_only:  false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
