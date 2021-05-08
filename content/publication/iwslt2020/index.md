@@ -39,7 +39,7 @@ summary: Using denoising auto-encoder and backtranslation, this work beats a bas
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
