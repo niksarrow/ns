@@ -30,7 +30,7 @@ publication_types: ["1"]
 publication: To appear in Proceedings of the 8th Workshop on Asian Translation
 publication_short: In *WAT 2021*
 
-abstract: Multilingual Neural Machine Translation hasachieved remarkable performance by traininga  single  translation  model  for  multiple  lan-guages.  This paper describes our submission(Team ID- CFILT-IITB) for the MultiIndicMT:An Indic Language Multilingual Task at WAT2021.  We train multilingual NMT systems bysharing encoder and decoder parameters withlanguage embedding associated with each to-ken  in  both  encoder  and  decoder.Further-more,  we  demonstrate  the  use  of  translitera-tion (script conversion) for Indic languages inreducing the lexical gap for training a multilin-gual NMT system. Further, we show improve-ment in performance by training a multilingualNMT system using languages of the same fam-ily, i.e., related languages
+abstract: Multilingual Neural Machine Translation hasachieved remarkable performance by traininga single translation model for multiple  languages. This paper describes our submission(Team ID- CFILT-IITB) for the MultiIndicMT:An Indic Language Multilingual Task at WAT2021. We train multilingual NMT systems by sharing encoder and decoder parameters with language embedding associated with each token in  both encoder and decoder. Furthermore,  we  demonstrate  the use of transliteration (script conversion) for Indic languages in reducing the lexical gap for training a multilingual NMT system. Further, we show improvement in performance by training a multilingualNMT system using languages of the same family, i.e., related languages.
 
 # Summary. An optional shortened abstract.
 summary: 
