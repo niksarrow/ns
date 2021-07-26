@@ -6,12 +6,14 @@ title: Nikhil Saini
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant at IIT Bombay
+role: Senior Software Engineer 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: IIT Bombay
-  url: https://www.cse.iitb.ac.in/
+- name: Samsung Research Institute Bangalore
+  url: https://research.samsung.com/sri-b
+
+# url: https://www.cse.iitb.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include NLP and Speech.
@@ -67,7 +69,9 @@ email: ""
 highlight_name: false
 ---
 
-Nikhil Saini is a research assistant at Indian Institute of Technology, Bombay. His research interests include Artificial Intelligence, Natural Language Processing and Speech Procesing. He is inclined towards algorithmic thinking and problem solving. He works at <a href="http://www.cfilt.iitb.ac.in/">CFILT</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT</a> lab with <a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/">Prof. Preethi Jyothi</a> on problems involving Speech and NLP. Alongwith, he assists in the research at <a href="https://www.cc.iitb.ac.in/">Computer Center</a> of IIT Bombay.
+Nikhil Saini is a Senior Software Engineer in the Voice Intelligence Group at  <a href="https://research.samsung.com/sri-b">Samsung Research Institute Bangalore</a>. His research interests include Artificial Intelligence, Natural Language Processing and Speech Procesing. He has worked at <a href="http://www.cfilt.iitb.ac.in/">CFILT</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT</a> lab with <a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/">Prof. Preethi Jyothi</a> on problems involving Speech and NLP. 
+
+# research assistant at Indian Institute of Technology, Bombay. His research interests include Artificial Intelligence, Natural Language Processing and Speech Procesing. He is inclined towards algorithmic thinking and problem solving. He works at <a href="http://www.cfilt.iitb.ac.in/">CFILT</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT</a> lab with <a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/">Prof. Preethi Jyothi</a> on problems involving Speech and NLP. Alongwith, he assists in the research at <a href="https://www.cc.iitb.ac.in/">Computer Center</a> of IIT Bombay.
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NikhilCV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
