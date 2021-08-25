@@ -40,7 +40,9 @@ categories:
 ---
 - 25 August 2021
   - I am honored with {{< hl >}}Excellence in Research for M.Tech Thesis Project 2020-21{{< hl >}} by the Department of Computer Science and Engineering, IIT Bombay.
+
 - 07 August 2021
   - Graduated from the CSE Dept. of IIT Bombay. 
+
 - 05 July 2021
   - I have joined Samsung Research Institute Bangalore as a Senior Software Engineer, where I'll work in the Voice Intelligence Group with focus on NLU. 
