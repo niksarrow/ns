@@ -23,7 +23,7 @@ date_format: Aug 2021
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.cse.iitb.ac.in/
+- certificate_url: https://lnkd.in/e_DB9Gca
   date_end: ""
   date_start: "2021-08-07"
   description: "Research Excellence for M.Tech Thesis Project 2020-21 is awarded to the graduating student by taking into account both qualitative aspects of the nominations as well as the output (publications, software, and other artifacts produced)."
