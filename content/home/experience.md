@@ -22,12 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Software Engineer
+    company: Samsung Research Institute Bangalore
+    company_url: 'https://research.samsung.com/sri-b'
+    location: Bengaluru, Karnataka
+    date_start: '2021-07-05'
+    date_end: ''
+    description: |2-
+        Domain:
+
+        * NLU for Bixby Voice Assistant
+        * Explainable AI
+
   - title: Research Assistant
     company: Computer Center, IIT Bombay
     company_url: 'https://www.cc.iitb.ac.in/'
     location: Powai, Mumbai
     date_start: '2018-07-17'
-    date_end: ''
+    date_end: '2021-06-30'
     description: |2-
         Responsibilities include:
 

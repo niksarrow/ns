@@ -69,6 +69,6 @@ email: ""
 highlight_name: false
 ---
 
-Nikhil Saini is a Senior Software Engineer in the Voice Intelligence Group at  <a href="https://research.samsung.com/sri-b">Samsung Research Institute Bangalore</a>. His research interests include Artificial Intelligence, Natural Language Processing and Speech Procesing. He has worked at <a href="http://www.cfilt.iitb.ac.in/">CFILT</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT</a> lab with <a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/">Prof. Preethi Jyothi</a> on problems involving Speech and NLP. 
+Nikhil Saini is a Senior Software Engineer in the Voice Intelligence Group at  <a href="https://research.samsung.com/sri-b">Samsung Research Institute Bangalore</a>. His research interests include Artificial Intelligence, Natural Language Processing and Speech Processing. He has worked at <a href="http://www.cfilt.iitb.ac.in/">CFILT</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT</a> lab with <a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/">Prof. Preethi Jyothi</a> on problems involving Speech and NLP. 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NikhilCV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
