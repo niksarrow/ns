@@ -25,7 +25,7 @@ date_format: Aug 2021
 item:
 - certificate_url: https://lnkd.in/e_DB9Gca
   date_end: ""
-  date_start: "2021-08-07"
+  date_start: '2021-08-07'
   description: "Research Excellence for M.Tech Thesis Project 2020-21 is awarded to the graduating student by taking into account both qualitative aspects of the nominations as well as the output (publications, software, and other artifacts produced)."
   organization: IIT Bombay
   organization_url: https://www.cse.iitb.ac.in/
@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: 
   date_end: ""
-  date_start: "2022-02-01"
+  date_start: '2022-02-01'
   description: "This award recognizes an individual for his/her contribution and excellence in work, extraordinary commitment, leveraging & development of talent, extension of support and achievements beyond functional scope and process improvements."
   organization: Samsung Research Institute Bangalore, India
   organization_url: https://research.samsung.com/sri-b
@@ -41,7 +41,7 @@ item:
   url: ""
 - certificate_url: 
   date_end: ""
-  date_start: "2022-03-01"
+  date_start: '2022-03-01'
   description: "Professional level coder amongst all Samsung Employees."
   organization: Samsung Research Institute Bangalore, India
   organization_url: https://research.samsung.com/sri-b
@@ -49,7 +49,7 @@ item:
   url: ""
 - certificate_url: 
   date_end: ""
-  date_start: "2022-04-01"
+  date_start: '2022-04-01'
   description: "The Ascendant Stars - Voice Intelligence Team (Young Achiever of the Year Award)"
   organization: Samsung Research Institute Bangalore, India
   organization_url: https://research.samsung.com/sri-b
