@@ -67,7 +67,12 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+Welcome 👋 Let's sit for a ☕️ and discuss anything interesting.
 
-Nikhil Saini is a Lead Engineer in the Voice Intelligence Group at  <a href="https://research.samsung.com/sri-b">Samsung Research Institute Bangalore</a>. His research interests include Generative AI (LLMs) applied on Natural Language. He has worked at <a href="http://www.cfilt.iitb.ac.in/">CFILT</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT</a> lab with <a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/">Prof. Preethi Jyothi</a> on problems involving Speech and NLP. 
+I'm Nikhil Saini, a Lead Engineer in the Language AI Team at <a href="https://research.samsung.com/sri-b">Samsung Research Institute Bangalore</a>. 
+My research interests include AI/ML 🤖 applied on Natural Language. Currently, researching on Generative AI (LLMs) applied to natural language. Some of these are around Data generation (using Prompt Engineering), LLM Finetuning (LoRA), Model Compression 🗜 (QLorA, GPTQ ...), Model Selection, Evaluation, Ondevice execution of LLMs (Tflite), and for more let's get in touch 😉
+
+~Past 🔙:
+I've worked at <a href="http://www.cfilt.iitb.ac.in/">CFILT</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT</a> lab with <a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/">Prof. Preethi Jyothi</a> on problems involving Speech and NLP during post-graduation 👨‍🎓. 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NikhilCV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
