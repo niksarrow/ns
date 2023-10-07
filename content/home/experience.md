@@ -23,17 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Lead Engineer
-      company: Samsung Research Institute Bangalore
-      company_url: 'https://research.samsung.com/sri-b'
-      location: Bengaluru, Karnataka
-      date_start: '2023-03-01'
-      date_end: ''
-      description: |2-
-          Domain:
+    company: Samsung Research Institute Bangalore
+    company_url: 'https://research.samsung.com/sri-b'
+    location: Bengaluru, Karnataka
+    date_start: '2023-03-01'
+    date_end: ''
+    description: |2-
+        Domain:
 
-          * Generative AI - Large Language Models
-          * OnDevice LLMs
-          * Multimodal Assistants for Bixby
+        * Generative AI - Large Language Models
+        * OnDevice LLMs
+        * Multimodal Assistants for Bixby
           
   - title: Senior Software Engineer
     company: Samsung Research Institute Bangalore
