@@ -40,7 +40,7 @@ experience:
     company_url: 'https://research.samsung.com/sri-b'
     location: Bengaluru, Karnataka
     date_start: '2021-07-05'
-    date_end: ''
+    date_end: '2023-03-01'
     description: |2-
         Domain:
 
