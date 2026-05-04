@@ -74,16 +74,13 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Welcome 👋 Let's sit for a ☕️ and discuss anything interesting.
+Hey 👋 — grab a coffee and let's talk shop.
 
-I'm Nikhil Saini, a Chief Engineer in the Language AI Team at <a href="https://research.samsung.com/sri-b">Samsung Research Institute Bangalore</a>. 
+I'm Nikhil Saini, Chief Engineer on the Language AI team at <a href="https://research.samsung.com/sri-b">Samsung Research Institute Bangalore</a>. I work at the intersection of NLP and ML, with a focus on making language models actually useful.
 
-My research interests include AI/ML 🤖 applied on Natural Language. 
+These days I'm thinking about diffusion models for text and agentic systems — two areas I think are underexplored and worth serious attention. If you're working on either, I'd love to compare notes.
 
-Currently, researching on Generative AI (LLMs) applied to natural language. As of May-26, looking into diffusion models for text and Agentic Engineering. For more let's get in touch 😉
-
-Previously🔙:
-I've worked on Machine Translation, Disfluency Correction, Ondevice LLMs, Quantization, Reinforcement Learning and similar areas around text domain. 
-I've worked at <a href="http://www.cfilt.iitb.ac.in/">CFILT</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT</a> lab with <a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/">Prof. Preethi Jyothi</a> on problems involving Speech and NLP during post-graduation 👨‍🎓. 
+Previously:
+My background spans Machine Translation, Disfluency Correction, On-device LLMs, Quantization, and Reinforcement Learning — mostly in the text domain. During my post-grad👨‍🎓 at IIT Bombay, I worked at the <a href="http://www.cfilt.iitb.ac.in/">CFILT</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT</a> lab with <a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/">Prof. Preethi Jyothi</a>,tackling problems at the boundary of Speech and NLP. 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NikhilCV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
